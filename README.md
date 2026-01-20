@@ -1,12 +1,37 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
 
-<p align="left"> 
-  meu nome é GEORGE LUCAS SILVA LEITÃO <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+## 👋 Olá, meu nome é **George Lucas Silva Leitão**
 
-<p align="left">
-  🦄 Linguagens: **ATUALMENTE ESTUDANDO DJANGO,TYPESCRIPT,JAVASCRIPT E NODE**
-</p>
+Sou um desenvolvedor em formação, focado em **Desenvolvimento Web Full Stack**. Atualmente, **estudo e desenvolvo projetos** para consolidar meus conhecimentos nas tecnologias modernas.
 
+---
 
+### 🚀 **Stack Atual**
+
+**Estudando e praticando:**  
+- **Django** (Back-end com Python)  
+- **TypeScript** & **JavaScript** (Front-end e Back-end)  
+- **Node.js** (Back-end)
+
+---
+
+### 📚 **Objetivo**  
+Aprimorar minhas habilidades para construir aplicações web completas, escaláveis e com código limpo, unindo o poder do Django no back-end e tecnologias modernas no front-end.
+
+---
+
+### 🌱 **Próximos Passos**  
+- Consolidar conhecimentos em **REST APIs** com Django REST Framework  
+- Explorar **frameworks front-end** modernos (React, Vue ou Angular)  
+- Estudar boas práticas, testes e deploy
+
+---
+
+### 📫 **Como me encontrar**  
+*(Adicione aqui links para seu GitHub, LinkedIn, portfólio, etc.)*  
+🔗 **GitHub:** [seu-usuario](https://github.com/seu-usuario)  
+🔗 **LinkedIn:** [seu-perfil](https://linkedin.com/in/seu-perfil)
+
+---
+
+⭐ *“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*
