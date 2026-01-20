@@ -28,9 +28,8 @@ Aprimorar minhas habilidades para construir aplicações web completas, escaláv
 ---
 
 ### 📫 **Como me encontrar**  
-*(Adicione aqui links para seu GitHub, LinkedIn, portfólio, etc.)*  
-🔗 **GitHub:** [seu-usuario](https://github.com/seu-usuario)  
-🔗 **LinkedIn:** [seu-perfil](https://linkedin.com/in/seu-perfil)
+ 
+🔗 **LinkedIn:** [GEORGE LUCAS(www.linkedin.com/in/george-lucas-leitao-analista-de-sistemas)
 
 ---
 
