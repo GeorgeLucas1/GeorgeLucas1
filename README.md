@@ -12,6 +12,8 @@ Sou um desenvolvedor em formação, focado em **Desenvolvimento Web Full Stack**
 - **Django** (Back-end com Python)  
 - **TypeScript** & **JavaScript** (Front-end e Back-end)  
 - **Node.js** (Back-end)
+- - **REACT** (FRAMEWORK FRONT-END)  
+
 
 ---
 
