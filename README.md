@@ -24,7 +24,7 @@ Aprimorar minhas habilidades para construir aplicações web completas, escaláv
 
 ### 🌱 **Próximos Passos**  
 - Consolidar conhecimentos em **REST APIs** com Django REST Framework  
-- Explorar **frameworks front-end** modernos (React, Vue ou Angular)  
+- Explorar **frameworks front-end** modernos (VUE.JS É O FRAMEWORK QUE MAIS GOSTEI EM RELAÇÃO A OUTRAS)  
 - Estudar boas práticas, testes e deploy
 
 ---
