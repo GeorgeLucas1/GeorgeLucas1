@@ -11,7 +11,7 @@ Sou um desenvolvedor em formação, focado em **Desenvolvimento Web Full Stack**
 **Estudando e praticando:**  
 - **Django/FAST.API** (Back-end com Python)  
 - **AUTOMAÇÃO**
-
+-**VUE.JS**
 
 ---
 
