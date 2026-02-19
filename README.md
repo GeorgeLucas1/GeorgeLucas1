@@ -8,23 +8,14 @@ Sou um desenvolvedor em formação, focado em **Desenvolvimento Web Full Stack**
 
 ### 🚀 **Stack Atual**
 
-**Estudando e praticando:**  
-- **Django/FAST.API** (Back-end com Python)  
-- **AUTOMAÇÃO**
 
--**VUE.JS**
 
 ---
 
 ### 📚 **Objetivo**  
-Aprimorar minhas habilidades para construir aplicações web completas, escaláveis e com código limpo, unindo o poder do Django no back-end e tecnologias modernas no front-end.
+Aprimorar minhas habilidades para construir aplicações web completas, escaláveis e com código limpo, unindo o poder do Django no back-end e tecnologias modernas no front-end,FRONT-END,MOBILE E AUTOMAÇÃO.
 
 ---
-
-### 🌱 **Próximos Passos**  
-- Consolidar conhecimentos em **REST APIs** com Django REST Framework  
-- Explorar **frameworks front-end** modernos (VUE.JS É O FRAMEWORK QUE MAIS GOSTEI EM RELAÇÃO A OUTRAS)  
-- Estudar boas práticas, testes e deploy
 
 ---
 
