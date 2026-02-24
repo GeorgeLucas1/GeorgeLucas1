@@ -13,7 +13,7 @@ Sou um desenvolvedor em formação, focado em **Desenvolvimento Web Full Stack**
 ---
 
 ### 📚 **Objetivo**  
-Aprimorar minhas habilidades para construir aplicações web completas, escaláveis e com código limpo, unindo o poder do PYTHON E JS no back-end e tecnologias modernas no front-end,FRONT-END,MOBILE E AUTOMAÇÃO.
+se torna um desenvolvedor web/mobile aplicando conhecimentos de engenharia de software.
 
 ---
 
