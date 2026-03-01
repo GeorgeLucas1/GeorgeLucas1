@@ -1,28 +1,27 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Illustration of a computer" width="400px" align="right">
 
-## 👋 Olá, meu nome é **George Lucas Silva Leitão**
+## 👋 Hello, my name is **George Lucas Silva Leitão**
 
-Sou um desenvolvedor em formação, focado em **Desenvolvimento Web Full Stack**. Atualmente, **estudo e desenvolvo projetos** para consolidar meus conhecimentos nas tecnologias modernas.
-
----
-
-### 🚀 **Stack Atual**
-
-
+I am a developer in training, focused on **Full Stack Web Development**. Currently, I am **studying and developing projects** to consolidate my knowledge in modern technologies.
 
 ---
 
-### 📚 **Objetivo**  
-se torna um desenvolvedor web/mobile aplicando conhecimentos de engenharia de software.
+### 🚀 **Current Stack**
+
+---
+
+### 📚 **Goal**
+
+To become a web/mobile developer applying software engineering knowledge.
 
 ---
 
 ---
 
-### 📫 **Como me encontrar**  
- 
-🔗 **LinkedIn:** [GEORGE LUCAS(www.linkedin.com/in/george-lucas-leitao-analista-de-sistemas)
+### 📫 **How ​​to find me**
+
+🔗 **LinkedIn:** [GEORGE LUCAS (www.linkedin.com/in/george-lucas-leitao-analista-de-sistemas)
 
 ---
 
-⭐ *“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*
+⭐ *“Success is the sum of small efforts repeated day after day.”*
