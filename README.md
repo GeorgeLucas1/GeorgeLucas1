@@ -8,18 +8,7 @@ I am a developer in training, focused on **Full Stack Web Development**. Current
 
 ---
 
-### 🚀 **My Core Stack**
 
-My preferred programming languages and areas of expertise include:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <!-- Add more technology badges here if desired -->
-</p>
-
----
 
 ### 📚 **My Goal**
 
