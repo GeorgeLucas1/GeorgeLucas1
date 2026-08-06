@@ -8,9 +8,7 @@
 
 <!-- GIF animado de saudação -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>
   <b> ESSA É A MINHA CAVERNA!</b>
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/>
 </p>
 
 <div align="center">
