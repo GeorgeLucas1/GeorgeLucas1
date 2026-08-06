@@ -42,7 +42,7 @@ Hi! I'm **George**, graduated in **Systems Analysis and Development**. My journe
 
 I've been working on efficient APIs, system architecture, and data pipelines that turn raw information into valuable insights. I believe the foundation of any great application lies in a solid back-end and well-structured data.
 
-My experience ranges from relational and non-relational database modeling to implementing scalable services, always with a focus on **best practices** 🔥, **clean code**, and **operational efficiency**.
+My experience ranges from relational and non-relational database modeling to implementing scalable services, always with a focus on **best practices** , **clean code**, and **operational efficiency**.
 
 </div>
 </br>
