@@ -82,8 +82,6 @@ Minha experiência envolve desde a modelagem de bancos de dados relacionais e n�
   <h3>⚡ Minhas Contribuições ⚡</h3>
 </div>
 
-[![George's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=%5Bseu-usuario%5D&custom_title=GitHub%20Activity&hide_border=false&theme=dark&border_color=FF1001&bg_color=0D1117&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=30&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <table align="center">
 <tr>
     <td valign="top" width="45%">
@@ -94,16 +92,9 @@ Minha experiência envolve desde a modelagem de bancos de dados relacionais e n�
       <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,kafka" />
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github" />
     </td>
-    <td valign="top" width="55%">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=[seu-usuario]&theme=dark&background=0D1117&ring=FF1001&fire=FF1001&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF1001&sideLabels=FF1001&dates=FFFFFF" alt="GitHub Streak" />
-      </a>
-      </br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF1001&text_color=ffffff" />
-    </td>
+  
 </tr>
 </table>
 
 ---
 
-<p align="center">🎭 <i>README estruturado com foco em Engenharia de Dados e Back-end por George.</i> 🎭</p>
