@@ -70,7 +70,7 @@ My experience ranges from relational and non-relational database modeling to imp
 </br>
 
 > [!Caution]
-> 💀 Code is never finished, it only gets better. What you see here is built with **practice**, **curiosity**, and **persistence**. 🔥
+> 💀 Code is never finished, it only gets better. What you see here is built with **practice**, **curiosity**, and **persistence**. 
 
 </br>
 
