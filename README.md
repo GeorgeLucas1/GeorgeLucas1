@@ -42,7 +42,7 @@
 
 <div align="justify">
 
-Olá! Sou o **George**, formado em **Análise e Desenvolvimento de Sistemas**. 🖤 Minha trajetória na tecnologia é movida pela curiosidade técnica e pelo desejo de construir infraestruturas robustas e escaláveis. Atualmente, meu foco principal está no ecossistema de **Desenvolvimento Back-end** ⚡ e **Engenharia de Dados** 👾, onde a lógica de processamento e a integridade da informação são fundamentais.
+Olá! Sou o **George**, formado em **Análise e Desenvolvimento de Sistemas**.  Minha trajetória na tecnologia é movida pela curiosidade técnica e pelo desejo de construir infraestruturas robustas e escaláveis. Atualmente, meu foco principal está no ecossistema de **Desenvolvimento Back-end**  e **Engenharia de Dados** , onde a lógica de processamento e a integridade da informação são fundamentais.
 
 Tenho trabalhado no desenvolvimento de APIs eficientes, arquitetura de sistemas e pipelines de dados que transformam informação bruta em insights valiosos. Acredito que a base de qualquer grande aplicação reside em um back-end sólido e em dados bem estruturados.
 
@@ -103,12 +103,6 @@ Minha experiência envolve desde a modelagem de bancos de dados relacionais e n�
     </td>
 </tr>
 </table>
-
-<!-- Snake animado (mostra seu histórico de commits como uma cobrinha comendo os quadradinhos) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/[seu-usuario]/[seu-usuario]/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-  <p><i>👾 Para ativar essa cobrinha animada, siga o guia em <a href="https://github.com/Platane/snk">Platane/snk</a> (Github Actions).</i></p>
-</div>
 
 ---
 
