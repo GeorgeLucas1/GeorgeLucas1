@@ -37,7 +37,7 @@
 
 <!-- Quem sou eu -->
 <div align="center">
-  <h3>💀 Quem é o George? 🎭</h3>
+  <h3> Quem é o George? </h3>
 </div>
 
 <div align="justify">
