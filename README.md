@@ -1,7 +1,4 @@
-<!--
-George, este README foi personalizado para o seu perfil.
-    Lembre-se de substituir "[seu-usuario]" pelo seu username real do GitHub nos links.
---> <!-- Banner  --> <a href="https://github.com/[seu-usuario]">
+
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/140275151/632098909-b437b021-3346-4091-8fc5-49b988cc237a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260806T022252Z&X-Amz-Expires=300&X-Amz-Signature=a12da68dec2d1851ef4aa69d618e34f90e690ba2ab30f597521c16506c10b0dc&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng" alt="Banner George"  style="width:100%; height:auto"/>
 </a> <div align="center">   <a href="https://api.github-star-counter.workers.dev/user/[seu-usuario]">
     <img width="120px" 
@@ -21,7 +18,7 @@ George, este README foi personalizado para o seu perfil.
         title="Github Followers" 
         src="https://custom-icon-badges.herokuapp.com/github/followers/[seu-usuario]?color=0D1117&labelColor=FF1001&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" />
   </a>
-</div> </br> <!-- Who am i? --> <div align="center">
+</div> </br> <!-- Who am i? Section with Animated GIF --> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVr9W5RIc/giphy.gif" width="390" align="left"> <div align="center">
 
 **Quem é o George?**
 
@@ -49,7 +46,7 @@ Minha experiência envolve desde a modelagem de bancos de dados relacionais e n�
           alt="E-mail"
           title="Meu E-mail"/>
   </a>
-  <!-- Portfolio/Outros -->
+  <!-- GitHub -->
   <a href="https://github.com/[seu-usuario]" target="_blank">
     <img width="110px" 
           src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
@@ -58,7 +55,7 @@ Minha experiência envolve desde a modelagem de bancos de dados relacionais e n�
   </a> </div>
 </br>
 
-> [!Caution]O código nunca está pronto, ele apenas melhora.O que você vê aqui é construído com **prática**, **curiosidade** e **persistência**.
+> [!Caution]O código nunca está pronto, ele apenas melhora.O que você vê aqui é construído com **prática**, **curiosidade** e **persistence**.
 
 </br> <!-- Contributions title --> <div align="center">
 <h3>Minhas Contribuições</h3>
@@ -69,7 +66,7 @@ Minha experiência envolve desde a modelagem de bancos de dados relacionais e n�
 
 <table align="center">
 <tr>
-    <!-- Skills Left (Back-end & Data focus) -->
+    <!-- Tech Stack -->
     <td valign="top" width="45%">
       <strong>Tech Stack</strong>
       </br>
@@ -95,9 +92,8 @@ Minha experiência envolve desde a modelagem de bancos de dados relacionais e n�
 ```
 
 </tr>
-</table> <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF1001&text_color=ffffff" alt="GitHub Stats" />
-</div>
+</table>
 
 ---
 
+*README estruturado com foco em Engenharia de Dados e Back-end por George.*
