@@ -1,7 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/[seu-usuario]">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FF1001&center=true&vCenter=true&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+o+George+%F0%9F%96%A4;Backend+%2F+Data+Engineering+%E2%9A%A1;Sempre+construindo+algo+novo+%F0%9F%92%80" alt="Typing SVG" />
+   <img width="736" height="239" alt="image" src="https://github.com/user-attachments/assets/ff7ea585-3647-439f-b401-fdca97220065" />
+
   </a>
 </div>
 
