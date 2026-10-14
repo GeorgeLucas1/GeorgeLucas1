@@ -3,9 +3,7 @@
 </div>
 
 <!-- Banner da coruja (arquivo owl-banner.svg na raiz do repositório) -->
-<div align="center">
-  <img width="100%" alt="Uma mente que está sempre descobrindo algo novo" src="./owl-banner.svg" />
-</div>
+
 
 <!-- Texto animado -->
 <p align="center">
