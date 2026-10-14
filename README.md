@@ -66,20 +66,6 @@ Like an owl, I do my best work in the quiet of the night. 🦉
 
 <br>
 
-<!-- Tech stack -->
-<table align="center">
-<tr>
-    <td valign="top" width="45%">
-      <strong>🖤 Tech Stack</strong>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=py,java,js,go,c,cpp&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi,flask&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,kafka&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github&theme=dark" />
-    </td>
-</tr>
-</table>
-<br>
 
 <!-- Night stats -->
 <div align="center">
