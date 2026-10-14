@@ -1,6 +1,10 @@
-<!-- Banner noturno com estrelas piscando -->
 <div align="center">
-  <img width="100%" alt="Uma mente que está sempre descobrindo algo novo" src="https://capsule-render.vercel.app/api?type=rect&color=0:05070d,60:0D1117,100:1b0a0d&height=260&section=header&text=Uma%20mente%20que%20est%C3%A1%20sempre%20descobrindo%20algo%20novo&fontSize=32&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=%F0%9F%A6%89%20BACK-END%20%E2%80%A2%20DATA%20ENGINEERING%20%E2%80%A2%20NIGHT%20SHIFT&descSize=16&descColor=FF1001&descAlignY=66" />
+  <img width="100%" alt="header wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF1001&height=110&section=header" />
+</div>
+
+<!-- Banner da coruja (arquivo owl-banner.svg na raiz do repositório) -->
+<div align="center">
+  <img width="100%" alt="Uma mente que está sempre descobrindo algo novo" src="./owl-banner.svg" />
 </div>
 
 <!-- Texto animado -->
