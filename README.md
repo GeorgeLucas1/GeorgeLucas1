@@ -8,7 +8,6 @@
 <!-- Texto animado -->
 <p align="center">
   <a href="https://github.com/[your-username]">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=FF1001&background=0D1117&center=true&vCenter=true&width=700&lines=🦉+Uma+mente+que+est%C3%A1+sempre+descobrindo+algo+novo;Back-end+Developer;Data+Engineering+at+night;Clean+code+%7C+Scalable+systems" />
   </a>
 </p>
 
