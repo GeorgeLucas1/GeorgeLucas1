@@ -2,7 +2,7 @@
 <div align="center">
   <img width="100%" alt="header wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF1001&height=110&section=header" />
 </div>
-
+<rect xmlns="http://www.w3.org/2000/svg" width="1000" height="320" fill="url(#sky)"/>
 <!-- Owl banner (put the file at assets/owl-banner.svg in your profile repo) -->
 <div align="center">
   <a href="https://github.com/[your-username]">
@@ -84,20 +84,6 @@ Like an owl, I do my best work in the quiet of the night. 🦉
 
 <br>
 
-<!-- Tech stack -->
-<table align="center">
-<tr>
-    <td valign="top" width="45%">
-      <strong>🖤 Tech Stack</strong>
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=py,java,js,go,c,cpp&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi,flask&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,kafka&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github&theme=dark" />
-    </td>
-</tr>
-</table>
-<br>
 
 <!-- Night stats -->
 <div align="center">
