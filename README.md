@@ -51,37 +51,13 @@ Like an owl, I do my best work in the quiet of the night. 🦉
   <br><br>
   <a href="https://www.linkedin.com/in/george-lucas-leitao/" target="_blank">
     <img width="120px" src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF1001&labelColor=0D1117" alt="Linkedin"/>
-  </a>
-  <a href="mailto:[your-email]@gmail.com" target="_blank">
-    <img width="110px" src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF1001&labelColor=0D1117" alt="E-mail"/>
-  </a>
-  <a href="https://github.com/[your-username]" target="_blank">
-    <img width="110px" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF1001&labelColor=0D1117" alt="GitHub"/>
-  </a>
+ 
 </div>
 <br>
 
 > [!Caution]
 > 💀 Code is never finished, it only gets better. What you see here is built with **practice**, **curiosity**, and **persistence**.
 
-<br>
-
-
-<!-- Night stats -->
-<div align="center">
-  <strong>🦉 Night Watch Stats</strong>
-  <br><br>
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF1001&icon_color=FF1001&text_color=c9d1d9&ring_color=FF1001" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1001&text_color=c9d1d9" />
-  <br>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=[your-username]&hide_border=true&background=0D1117&ring=FF1001&fire=FF1001&currStreakLabel=FF1001&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" />
-</div>
-<br>
-
-<!-- Activity graph -->
-<div align="center">
-  <img width="95%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&bg_color=0D1117&color=c9d1d9&line=FF1001&point=FFFFFF&area=true&area_color=FF1001&hide_border=true" />
-</div>
 
 <!-- Footer -->
 <div align="center">
